@@ -1,7 +1,7 @@
 // server/index.js
 
 import express from "express";
-import route from "./routes/route";
+import route from "./routes/UserRoutes";
 
 const PORT = process.env.PORT || 3001;
 
